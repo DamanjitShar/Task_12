@@ -1,1 +1,1 @@
-# Task_12
+# Task_12 - To clone the Instagram layout using Bottom Navigation . 
